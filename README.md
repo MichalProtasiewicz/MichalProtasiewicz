@@ -31,3 +31,7 @@
   <summary>:clipboard: Github Stats</summary>
   <img align="left" alt="MichalProtasiewcz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MichalProtasiewicz&show_icons=true&hide_border=true" />
 </details>
+<details>
+  <summary>:clipboard: Top Languages</summary>
+  <img align="left" alt="MichalProtasiewcz's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichalProtasiewicz" />
+</details>
